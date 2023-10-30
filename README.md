@@ -35,14 +35,16 @@ Scope: Monitoring features to begin with, and AI enhancements to further the foc
 - [Pupil](https://pupil-labs.com/products/core/)
 - [RasterVision](https://docs.rastervision.io/en/stable/usage/basics.html)
 
-##### Systematic Possiblities
-[1.](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302379)
-[2.](https://towardsdatascience.com/support-vector-machine-svm-for-anomaly-detection-73a8d676c331)
-#### Medium Articles
-[1.](https://towardsdatascience.com/a-facenet-style-approach-to-facial-recognition-dc0944efe8d1)
+#### Systematic Possiblities:
+[1. CNN-based image recognition for topology optimization](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302379)
+[2. Support Vector Machine (SVM) for Anomaly Detection](https://towardsdatascience.com/support-vector-machine-svm-for-anomaly-detection-73a8d676c331)
+
+#### Medium Articles:
+[1. A FaceNet-Style Approach to Facial Recognition on the Google Coral Development board](https://towardsdatascience.com/a-facenet-style-approach-to-facial-recognition-dc0944efe8d1)
+
 #### Datasets:
-[1.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10390406/]
-[2.](https://towardsdatascience.com/one-dimensional-cnn-for-human-behavior-classification-fb4371d03633)
+[1. One-dimensional CNN for human behavior classification](https://towardsdatascience.com/one-dimensional-cnn-for-human-behavior-classification-fb4371d03633)
+[2. Machine learning for cognitive behavioral analysis: datasets, methods, paradigms, and research directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10390406/)
 
 
 ### Behavior
