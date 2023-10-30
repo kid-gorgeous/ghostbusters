@@ -27,7 +27,7 @@ Scope: Monitoring features to begin with, and AI enhancements to further the foc
 - [PyGaze](http://www.pygaze.org/about/)
     - this will allow for naive tracking, and will work on a computer that does not have a eyetracker
 - [OGAMA](http://www.ogama.net/)
-- [Tobii] (http://www.tobii.com/)
+- [Tobii](http://www.tobii.com/)
 - [Gaze Recorder](https://gazerecorder.com/)
 - [Arsfutura](https://arsfutura.com/magazine)
 - [FFMPEG](https://ffmpeg.org/)
