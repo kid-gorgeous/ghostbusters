@@ -1,9 +1,8 @@
 
 ### Senior Design: Anit-Cheat Detection system
 ---
-<br></br>
 
-#### "Measure Learning" 
+#### "Measure Learning":
 - Client Side Application
 - Server Side Streaming
 - UDP style streaming capabilites
@@ -11,18 +10,25 @@
 - Multithreading
 - MIT / Free Licencing
 
-#### Frameworks Ideas
+### Behaviors:
+- Bluetooch Monitoring
+- Video Streaming
+- Mouse Analysis
+- Feature Analysis
+- Privacy Concerns (FIPPA)
+
+#### Frameworks Ideas:
 - Flask
 - React
 - .NET MAUI
 
-### Analysis/Training Methods
+### Analysis/Training Methods:
 Scope: Monitoring features to begin with, and AI enhancements to further the focus of the models and feature. Increase accurcy and integrityare of the utmost concern.
 
-### Market Research
+### Market Research:
 - SSV
 - [OpenCV](https://docs.opencv.org/3.4/index.html)
-- [FaceNet]
+- FaceNet
 - [Deepface](https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/)
 - [PyGaze](http://www.pygaze.org/about/)
     - this will allow for naive tracking, and will work on a computer that does not have a eyetracker
@@ -46,11 +52,3 @@ Scope: Monitoring features to begin with, and AI enhancements to further the foc
 [1. One-dimensional CNN for human behavior classification](https://towardsdatascience.com/one-dimensional-cnn-for-human-behavior-classification-fb4371d03633)
 [2. Machine learning for cognitive behavioral analysis: datasets, methods, paradigms, and research directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10390406/)
 
-
-### Behavior
-- Bluetooch Monitoring
-- Wifi sniffing
-- Video Streaming
-- Mouse Analysis
-- Feature Analysis
-- Privacy Concerns (FIPPA)
