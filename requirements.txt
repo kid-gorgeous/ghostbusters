@@ -1,0 +1,3 @@
+# notebooks
+imutils
+opencv-python

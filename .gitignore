@@ -1,0 +1,10 @@
+# Directories
+sd/
+data/
+env/
+utils/
+.vscode/
+
+/.DS_STORE
+/cnn.ipynb
+/stream_.ipynb
